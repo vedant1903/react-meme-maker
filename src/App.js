@@ -10,8 +10,7 @@ function App() {
     <div>
       <Header />
       <MemeGenerator />
-    </div>
-    
+    </div>    
   );
 }
 
